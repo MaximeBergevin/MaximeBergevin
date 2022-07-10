@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DragonInJacket (soon M.Sc, maybe Ph.D. one year 🎓).
-- 🥼 I'm a budding scientist in the field of chronic pain. I'm interested in the interaction between pain, physical activity and behaviours.
+- 👋 Hi, I’m @MaximeBergevin (soon M.Sc, maybe Ph.D. one year 🎓).
+- 🥼 I'm a budding multidisciplinary scientist mainly involved in the fields of kinesiology, psychology and neuroscience. My main aim is to better understand how the perception of effort reaches our consciouness and how it impacts our behaviors, especially physical activity.
 - 👀 I’m interested in music, video games, sports. I also quite enjoy cooking even though I repeatedly prepare the same dish (if only it wasn't for my lazyness to look up new recipees).
-- 🌱 I’m currently learning R (apparently I've become quite good at it in the past year!).
+- 🌱 Although not an expert, I've become quite comfortable with R. I would eventually like to learn Python and JavaScript one day.
 - 📫 LinkedIn (@MaximeBergevin)
 
 <!---
