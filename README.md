@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MaximeBergevin, M.Sc (maybe Ph.D. one year 🎓).
-- 🥼 I'm a budding multidisciplinary scientist mainly involved in the fields of kinesiology, psychology and neuroscience. My main aim is to better understand how the perception of effort reaches our consciouness and how it impacts our behaviors, especially physical activity.
+- 👋 Hi, I’m @MaximeBergevin, M.Sc, PhD (c) 🎓🧠.
+- 🥼 I'm a budding multidisciplinary scientist mainly involved in the fields of behavioural neuroscience and sports. My main aim is to better effort and its perception. I am also interested in the experience of chronic pain, and how it can be managed, especially with non-medical intervention, like physical exercise.
 - 👀 I’m interested in music, video games, sports. I also quite enjoy cooking even though I repeatedly prepare the same dish (if only it wasn't for my lazyness to look up new recipees).
-- 🌱 Although not an expert, I've become quite comfortable with R.
+- 🌱 Although not an expert, I've become quite comfortable with R. I'd also like to get more comfortable with Python and JavaScript 🐍
 - 📫 LinkedIn (@MaximeBergevin)
 
 <!---
